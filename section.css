@@ -139,7 +139,7 @@ footer{
     opacity: 70%;
     font-weight: 600;
 }
-@media(max-width: 768px){
+@media(max-width: 1000px){
     .box .cyan{
         margin-left: 9%;
         margin-top: 40%;
